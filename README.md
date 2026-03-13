@@ -1,7 +1,11 @@
 # image-processing
 ## This readme is now just a task task and basic explanation it will be updated for the sake of understanding and clarity
 ## What is the image processing?   
-Image processing is the manipulation of digital images using algorithms to improve their quality (enhancement), extract useful information (analysis), or alter them. It involves treating images as two-dimensional signals to perform tasks like noise reduction, contrast adjustment, segmentation, and compression for better storage or interpretation.    
+Image processing is the manipulation of digital images using algorithms to improve their quality (enhancement), extract useful information (analysis), or alter them. It involves treating images as two-dimensional signals to perform tasks like noise reduction, contrast adjustment, segmentation, and compression for better storage or interpretation.   
+## Here is our original image in png format to show you     
+![](saturn.png)      
+If you want to open pgm files you can access them in repo and open in PGM Viewer   
+[PGM Viewer](https://smallpond.ca/jim/photomicrography/pgmViewer/index.html)
 
 ## 1. Image Represantation in Memory  
 In general, two-dimensional images are stored in a linear memory buffer, so that all   
